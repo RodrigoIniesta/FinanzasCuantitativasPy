@@ -34,3 +34,5 @@ plt.figure()
 plt.hist(x,bins=100)
 plt.title('Histograma normal'+str(df))
 plt.show()
+
+#test of edition in GITHUB
