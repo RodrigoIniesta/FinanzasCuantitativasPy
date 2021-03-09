@@ -13,7 +13,7 @@ import scipy
 import importlib
 from scipy.stats import skew,kurtosis,chi2
 
-print("prueba 1")
+print("Primer Codigo")
 
 #simulating random variables
 df=5
